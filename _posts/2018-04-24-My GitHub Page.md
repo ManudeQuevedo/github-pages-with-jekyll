@@ -1,3 +1,8 @@
+---
+title: "Lorem Ipsum"
+date: 2018-04-24
+---
+
 #Lorem Ipsum
 
 ###"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
